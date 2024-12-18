@@ -18,6 +18,7 @@ The purpose of this project was to design and evaluate a system capable of accur
    ```bash
    python -m notebook
 4. Select the `AI_Amay.ipynb` file
+   <img src="images/selectthis.png" alt="Select this" width="400px">
 
 
 
@@ -81,12 +82,12 @@ My MLP model achieved:
 
 ### Fold 1 Results
 - Accuracy: **98.2%**
-- Confusion Matrix:
+- Confusion Matrix^
   <img src="images/confusion_matrix_fold1.png" alt="Confusion Matrix Fold 1" width="400px">
 
 ### Fold 2 Results
 - Accuracy: **97.8%**
-- Confusion Matrix:
+- Confusion Matrix^
   <img src="images/confusion_matrix_fold2.png" alt="Confusion Matrix Fold 2" width="400px">
 
 
