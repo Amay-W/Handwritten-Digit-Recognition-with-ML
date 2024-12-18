@@ -76,3 +76,22 @@ My MLP model achieved:
 - Insights from confusion matrices, highlighting areas of improvement for misclassified digits.
 
 
+## Results
+
+The model's performance was evaluated using two-fold cross-validation. Below are the outputs and confusion matrices for each fold:
+
+### **Fold 1 Results**
+- Accuracy: **98.2%** 
+- Confusion Matrix:
+  ![Confusion Matrix Fold 1](images/confusion_matrix_fold1.png)
+
+### **Fold 2 Results**
+- Accuracy: **97.8%**
+- Confusion Matrix:
+  ![Confusion Matrix Fold 2](images/confusion_matrix_fold2.png)
+
+### **Average Accuracy**
+The average accuracy across both folds is **98.0%**, demonstrating the model's robustness and generalization ability.
+
+
+
