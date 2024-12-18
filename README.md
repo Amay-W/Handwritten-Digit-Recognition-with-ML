@@ -18,7 +18,7 @@ The purpose of this project was to design and evaluate a system capable of accur
    ```bash
    python -m notebook
 4. Select the `AI_Amay.ipynb` file
-   <img src="images/selectthis.png" alt="Select this" width="400px">
+   <img src="images/selectthis.png" alt="Select this" width="1000px">
 
 
 
