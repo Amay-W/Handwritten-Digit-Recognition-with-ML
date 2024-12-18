@@ -13,8 +13,11 @@ The purpose of this project was to design and evaluate a system capable of accur
    git clone https://github.com/amay-w/Handwritten-Digit-Recognition-with-ML
 2. Navigate to the project folder:
    ```bash
-   cd DigitClassifier
-3. Open `CW_AI_Amay.ipynb` in Jupyter Notebook and run the cells step-by-step.
+   cd Handwritten-Digit-Recognition-with-ML
+3. Launch Jupyter Notebook:
+   ```bash
+   python -m notebook
+4. Select the `AI_Amay.ipynb` file
 
 
 
@@ -24,7 +27,7 @@ The purpose of this project was to design and evaluate a system capable of accur
   - `cw2DataSet1.csv`: The training dataset derived from the Optical Recognition of Handwritten Digits dataset.
   - `cw2DataSet2.csv`: The validation dataset split from the original data.
 - **Code**:
-  - `CW_AI_Amay.ipynb`: My Python notebook containing the complete implementation of the project, including:
+  - `AI_Amay.ipynb`: My Python notebook containing the complete implementation of the project, including:
     - Data preprocessing
     - Implementation of a Multilayer Perceptron (MLP)
     - Two-fold cross-validation
